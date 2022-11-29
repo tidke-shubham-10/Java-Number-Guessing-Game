@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class NumberGuessingGame {
     public static void main(String[] args) {
         // Here We generate an random Number
-        int RandNumber = (int)((Math.random() * (100)) + 1); // Make a method
+        int RandNumber = (int)((Math.random() * (100)) + 1);
         // ((Math.random() * (max - min)) + min)
         
         System.out.println();
